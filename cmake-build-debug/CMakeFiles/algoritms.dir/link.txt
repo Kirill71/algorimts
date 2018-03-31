@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/algoritms.dir/main.cpp.o CMakeFiles/algoritms.dir/Matrix.cpp.o  -o algoritms 

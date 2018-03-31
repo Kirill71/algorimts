@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dmitriy/CLionProjects/algoritms/Matrix.cpp
+Matrix.h
+/home/dmitriy/CLionProjects/algoritms/Matrix.h
+
+/home/dmitriy/CLionProjects/algoritms/Matrix.h
+vector
+-
+memory
+-
+initializer_list
+-
+algorithm
+-
+iostream
+-
+
+/home/dmitriy/CLionProjects/algoritms/main.cpp
+iostream
+-
+Matrix.h
+/home/dmitriy/CLionProjects/algoritms/Matrix.h
+
